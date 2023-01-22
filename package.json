@@ -1,0 +1,12 @@
+{
+    "name": "livetype",
+    "version": "1.0.0",
+    "description": "Effect of typing text inside node",
+    "main": "index.js",
+    "author": "clowzed <clowzed.work@gmail.com>",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/clowzed/livetype.git"
+    }
+}
